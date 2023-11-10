@@ -1,6 +1,6 @@
 ## Interface: 30300
-## Author: Mischback
-## Title: Buffology
+## Author: Telotonet
+## Title: ShiftEffects
 ## SavedVariablesPerCharacter: BuffologyOptions, BuffologyFrames, BuffologyAssignments, BuffologyFacade
 ## SavedVariables: BuffologyAuraList
 ## OptionalDeps: ButtonFacade
